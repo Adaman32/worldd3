@@ -1,0 +1,39 @@
+
+.map .land{
+  fill: #293160;
+}
+
+.map .interiors{
+  fill: none;
+  stroke: #0F1342;
+}
+
+.map .sphere{
+  fill: #101443;
+}
+
+.map .graticules{
+  fill: none;
+  stroke: black;
+}
+
+.map .kp1{
+  fill: lime;
+  opacity: 0.2;
+}
+
+.map .kp2{
+  fill: green;
+}
+
+.map .kp4{
+  fill: yellow;
+}
+
+.map .kp6{
+  fill: orange;
+}
+
+.map .kp8{
+  fill: red;
+}
